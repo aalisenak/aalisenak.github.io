@@ -1,0 +1,1 @@
+export const _apiBase = 'https://restcountries.com/v2/all';
